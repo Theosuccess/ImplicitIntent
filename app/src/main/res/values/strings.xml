@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Implicit Intent</string>
+    <string name="edittext_uri">https://developer.android.com/courses/fundamentals-training/toc-v2</string>
+    <string name="button_uri">open website</string>
+    <string name="edittext_loc">31b, Saka Tinubu, Victoria Island Lagos</string>
+    <string name="button_loc">open location</string>
+    <string name="edittext_share">no better love than the love of God</string>
+    <string name="button_share">share this text</string>
+    <string name="button_picture">take a picture</string>
+</resources>
